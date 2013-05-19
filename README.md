@@ -1,4 +1,4 @@
-Providers - A QUnit addon for implementing data providers in tests
+Data Providers - A QUnit addon for implementing data providers in tests
 ================================
 
 This addon for QUnit adds a `QUnit.testWithProvider` method, allowing tests
