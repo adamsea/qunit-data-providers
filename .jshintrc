@@ -12,7 +12,6 @@
 	"nonew": true,
 	"onevar": true,
 	"plusplus": false,
-	"proto": true,
 	"sub": true,
 	"trailing": true,
 	"undef": true,
