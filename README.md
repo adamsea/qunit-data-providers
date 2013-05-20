@@ -1,7 +1,7 @@
 Data Providers - A QUnit addon for implementing data providers in tests
 ================================
 
-"!https://travis-ci.org/adamsea/qunit-data-providers.png!":https://travis-ci.org/adamsea/qunit-data-providers
+[![Build Status](https://travis-ci.org/adamsea/qunit-data-providers.png)](https://travis-ci.org/adamsea/qunit-data-providers)
 
 This addon for QUnit adds a `QUnit.testWithProvider` method, allowing tests
 to be run multiple times with data sets provided as parameters to the test.
