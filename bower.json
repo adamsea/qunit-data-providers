@@ -1,0 +1,28 @@
+{
+  "name": "qunit-data-providers",
+  "main": "qunit-data-providers.js",
+  "version": "1.1.0",
+  "homepage": "https://github.com/adamsea/qunit-data-providers",
+  "authors": [
+    "Eric Adams <adams.ea@gmail.com>",
+    "Matt Turland <me@matthewturland.com>"
+  ],
+  "description": "Adds data providers to QUnit tests.",
+  "keywords": [
+    "Unit",
+    "tests",
+    "QUnit",
+    "testing"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "qunit": "~1.18.0"
+  }
+}

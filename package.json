@@ -1,23 +1,23 @@
 {
-	"name": "qunit-data-providers",
-	"title": "QUnit Data Providers",
-	"description": "A QUnit addon for implementing data providers in tests.",
-	"version": "1.0.0",
-	"author": {
-		"name": "Synacor, Inc.",
-		"url": "http://www.synacor.com"
-	},
-	"contributors": [
-		"Eric Adams <eadams@synacor.com>",
-		"Matt Turland <mturland@synacor.com>"
-	],
-	"main": "qunit-data-providers.js",
-	"scripts": {
-		"test": "grunt"
-	},
-	"devDependencies": {
-		"grunt": "~0.4.0",
-		"grunt-contrib-jshint": "~0.2.0",
-		"grunt-contrib-qunit": "~0.2.0"
-	}
+  "name": "qunit-data-providers",
+  "title": "QUnit Data Providers",
+  "description": "A QUnit addon for implementing data providers in tests.",
+  "version": "1.1.0",
+  "author": {
+    "name": "Synacor, Inc.",
+    "url": "http://www.synacor.com"
+  },
+  "contributors": [
+    "Eric Adams <adams.ea@gmail.com>",
+    "Matt Turland <me@matthewturland.com>"
+  ],
+  "main": "qunit-data-providers.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.2.0",
+    "grunt-contrib-qunit": "^0.2.2"
+  }
 }
